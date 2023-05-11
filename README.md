@@ -72,16 +72,15 @@ We are now at the last part of step by step guide on how to simulate STM32 proje
 
 ## STM 32 CUBE PROGRAM :
 ```
-Developed by : Thanika sree B
-Register number : 212222100055
-
+DEVELOPED BY: Thanika sree B
+REGISTER NUMBER:212222100055
 
 /* USER CODE BEGIN Header */
 /**
-  ******************************************************************************
+  **************************
   * @file           : main.c
   * @brief          : Main program body
-  ******************************************************************************
+  **************************
   * @attention
   *
   * Copyright (c) 2023 STMicroelectronics.
@@ -91,7 +90,7 @@ Register number : 212222100055
   * in the root directory of this software component.
   * If no LICENSE file comes with this software, it is provided AS-IS.
   *
-  ******************************************************************************
+  **************************
   */
 /* USER CODE END Header */
 /* Includes ------------------------------------------------------------------*/
